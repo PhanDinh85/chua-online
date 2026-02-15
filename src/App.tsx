@@ -1,8 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { Settings, Info, Share2, Heart } from 'lucide-react';
 import ZenSpace from './components/ZenSpace';
-// import IncenseStick from './components/IncenseStick';
 import BuddhistInstruments from './components/BuddhistInstruments';
 
 function App() {
